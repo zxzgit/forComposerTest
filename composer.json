@@ -1,0 +1,8 @@
+{
+    "name": "zxzgit/composertest",
+    "description": "this is for composer packagist test",
+    "type": "library",
+    "require-dev": {
+},
+    "require": {"monolog/monolog": "^1.22"}
+}
