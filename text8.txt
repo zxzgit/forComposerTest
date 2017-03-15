@@ -1,1 +1,1 @@
-user A add text8.txt
+user B add text8.txt
