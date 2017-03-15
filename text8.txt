@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 user B add text8.txt
+=======
+user A add text8.txt
+>>>>>>> 71e1799a987794b7d57bbc2aa851f5fef5a29856
